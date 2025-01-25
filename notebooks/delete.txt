@@ -1,7 +1,0 @@
-This file text will be deleted after confirming that vs code stored it's changes on the github repo
-Since I still don't figure out why the EDA.ipynb is not being registered or stored on the github repo
-
-So after some tests it seems like the problem was that I saw the file modified on the VS code and I thought the 
-actual info was already stored but this was not the case, I was not saving the files rather just commiting with 
-whatever changes I did though not saving them directly in the machine, this caused empty files to be submitted
-good to know, now every change I do shall be saved before commiting.
