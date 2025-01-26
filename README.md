@@ -1,2 +1,3 @@
 # testwebapp
-This is a simple data analysis about the ev car industry in Washington (Because that was the first car related dataset I could find on kaggle) and how the chinese are conquering it which will be projected as a webapp via Render, nothing fancy.
+This is a simple data analysis about used cars as a webapp via Render, nothing fancy.
+El principal enfoque de este proyecto es poder mostrar cualquier data a través de Render de una forma básica, la data mostrada no tiene tanta relevancia puesto que es meramente ejemplos.
